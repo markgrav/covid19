@@ -1,0 +1,486 @@
+﻿2964	 	 Azerbaijan	NULL
+2965	 	Afghanistan	Afghanistan
+2966	 	Albania	Albania
+2967	 	Algeria	Algeria
+2968	 	Andorra	Andorra
+2969	 	Antigua and Barbuda	Antigua and Barbuda
+2970	 	Argentina	Argentina
+2971	 	Armenia	Armenia
+2972	 	Aruba	Aruba
+2973	 	Australia	Australia
+2974	Australian Capital Territory	Australia	Australia
+2975	From Diamond Princess	Australia	Australia
+2976	New South Wales	Australia	Australia
+2977	Northern Territory	Australia	Australia
+2978	Queensland	Australia	Australia
+2979	South Australia	Australia	Australia
+2980	Tasmania	Australia	Australia
+2981	Victoria	Australia	Australia
+2982	Western Australia	Australia	Australia
+2983	 	Austria	Austria
+2984	None	Austria	Austria
+2985	 	Azerbaijan	Azerbaijan
+2986	 	Bahrain	Bahrain
+2987	 	Bangladesh	Bangladesh
+2988	 	Belarus	Belarus
+2989	 	Belgium	Belgium
+2990	 	Benin	Benin
+2991	 	Bhutan	Bhutan
+2992	 	Bolivia	Bolivia
+2993	 	Bosnia and Herzegovina	Bosnia and Herzegovina
+2994	 	Brazil	Brazil
+2995	 	Brunei	Brunei
+2996	 	Bulgaria	Bulgaria
+2997	 	Burkina Faso	Burkina Faso
+2998	 	Cambodia	Cambodia
+2999	 	Cameroon	Cameroon
+3000	 Montreal, QC	Canada	Canada
+3001	Alberta	Canada	Canada
+3002	British Columbia	Canada	Canada
+3003	Calgary, Alberta	Canada	Canada
+3004	Edmonton, Alberta	Canada	Canada
+3005	Grand Princess	Canada	Canada
+3006	London, ON	Canada	Canada
+3007	Manitoba	Canada	Canada
+3008	New Brunswick	Canada	Canada
+3009	Newfoundland and Labrador	Canada	Canada
+3010	Nova Scotia	Canada	Canada
+3011	Ontario	Canada	Canada
+3012	Prince Edward Island	Canada	Canada
+3013	Quebec	Canada	Canada
+3014	Saskatchewan	Canada	Canada
+3015	Toronto, ON	Canada	Canada
+3016	 	Cayman Islands	Cayman Islands
+3017	 	Central African Republic	Central African Republic
+3018	 	Channel Islands	Channel Islands
+3019	 	Chile	Chile
+3020	Anhui	China	China
+3021	Beijing	China	China
+3022	Chongqing	China	China
+3023	Fujian	China	China
+3024	Gansu	China	China
+3025	Guangdong	China	China
+3026	Guangxi	China	China
+3027	Guizhou	China	China
+3028	Hainan	China	China
+3029	Hebei	China	China
+3030	Heilongjiang	China	China
+3031	Henan	China	China
+3032	Hong Kong	China	China
+3033	Hubei	China	China
+3034	Hunan	China	China
+3035	Inner Mongolia	China	China
+3036	Jiangsu	China	China
+3037	Jiangxi	China	China
+3038	Jilin	China	China
+3039	Liaoning	China	China
+3040	Macau	China	China
+3041	Ningxia	China	China
+3042	Qinghai	China	China
+3043	Shaanxi	China	China
+3044	Shandong	China	China
+3045	Shanghai	China	China
+3046	Shanxi	China	China
+3047	Sichuan	China	China
+3048	Tianjin	China	China
+3049	Tibet	China	China
+3050	Xinjiang	China	China
+3051	Yunnan	China	China
+3052	Zhejiang	China	China
+3053	 	Colombia	Colombia
+3054	 	Congo (Brazzaville)	Congo
+3055	 	Congo (Kinshasa)	Congo
+3056	 	Costa Rica	Costa Rica
+3057	 	Cote d'Ivoire	Cote d'Ivoire
+3058	 	Croatia	Croatia
+3059	Diamond Princess	Cruise Ship	Cruise Ship
+3060	 	Cuba	Cuba
+3061	 	Curacao	Curacao
+3062	 	Cyprus	Cyprus
+3063	 	Czech Republic	Czech Republic
+3064	 	Czechia	Czechia
+3065	 	Denmark	Denmark
+3066	Denmark	Denmark	Denmark
+3067	Faroe Islands	Denmark	Denmark
+3068	 	Dominican Republic	Dominican Republic
+3069	 	Ecuador	Ecuador
+3070	 	Egypt	Egypt
+3071	 	Equatorial Guinea	Equatorial Guinea
+3072	 	Estonia	Estonia
+3073	 	Eswatini	Eswatini
+3074	 	Ethiopia	Ethiopia
+3075	 	Faroe Islands	Faroe Islands
+3076	 	Finland	Finland
+3077	 	France	France
+3078	Fench Guiana	France	France
+3079	France	France	France
+3080	French Guiana	France	France
+3081	French Polynesia	France	France
+3082	Guadeloupe	France	France
+3083	Mayotte	France	France
+3084	Saint Barthelemy	France	France
+3085	St Martin	France	France
+3086	 	French Guiana	French Guiana
+3087	 	Gabon	Gabon
+3088	 	Georgia	Georgia
+3089	 	Germany	Germany
+3090	Bavaria	Germany	Germany
+3091	 	Ghana	Ghana
+3092	 	Gibraltar	Gibraltar
+3093	 	Greece	Greece
+3094	 	Greenland	Greenland
+3095	 	Guadeloupe	Guadeloupe
+3096	 	Guam	Guam
+3097	 	Guatemala	Guatemala
+3098	 	Guernsey	Guernsey
+3099	 	Guinea	Guinea
+3100	 	Guyana	Guyana
+3101	 	Holy See	Holy See
+3102	 	Honduras	Honduras
+3103	Hong Kong	Hong Kong	Hong Kong
+3104	Hong Kong	Hong Kong SAR	Hong Kong
+3105	 	Hungary	Hungary
+3106	 	Iceland	Iceland
+3107	 	India	India
+3108	 	Indonesia	Indonesia
+3109	 	Iran	Iran
+3110	 	Iran (Islamic Republic of)	Iran
+3111	 	Iraq	Iraq
+3112	None	Iraq	Iraq
+3113	 	Ireland	Ireland
+3114	 	Israel	Israel
+3115	From Diamond Princess	Israel	Israel
+3116	 	Italy	Italy
+3117	 	Ivory Coast	Ivory Coast
+3118	 	Jamaica	Jamaica
+3119	 	Japan	Japan
+3120	 	Jersey	Jersey
+3121	 	Jordan	Jordan
+3122	 	Kazakhstan	Kazakhstan
+3123	 	Kenya	Kenya
+3124	 	Korea, South	South Korea
+3125	 	Kosovo	Kosovo
+3126	 	Kuwait	Kuwait
+3127	 	Latvia	Latvia
+3128	 	Lebanon	Lebanon
+3129	None	Lebanon	Lebanon
+3130	 	Liberia	Liberia
+3131	 	Liechtenstein	Liechtenstein
+3132	 	Lithuania	Lithuania
+3133	 	Luxembourg	Luxembourg
+3134	Macau	Macao SAR	Macao SAR
+3135	Macau	Macau	Macau
+3136	Anhui	Mainland China	China
+3137	Beijing	Mainland China	China
+3138	Chongqing	Mainland China	China
+3139	Fujian	Mainland China	China
+3140	Gansu	Mainland China	China
+3141	Guangdong	Mainland China	China
+3142	Guangxi	Mainland China	China
+3143	Guizhou	Mainland China	China
+3144	Hainan	Mainland China	China
+3145	Hebei	Mainland China	China
+3146	Heilongjiang	Mainland China	China
+3147	Henan	Mainland China	China
+3148	Hubei	Mainland China	China
+3149	Hunan	Mainland China	China
+3150	Inner Mongolia	Mainland China	China
+3151	Jiangsu	Mainland China	China
+3152	Jiangxi	Mainland China	China
+3153	Jilin	Mainland China	China
+3154	Liaoning	Mainland China	China
+3155	Ningxia	Mainland China	China
+3156	Qinghai	Mainland China	China
+3157	Shaanxi	Mainland China	China
+3158	Shandong	Mainland China	China
+3159	Shanghai	Mainland China	China
+3160	Shanxi	Mainland China	China
+3161	Sichuan	Mainland China	China
+3162	Tianjin	Mainland China	China
+3163	Tibet	Mainland China	China
+3164	Xinjiang	Mainland China	China
+3165	Yunnan	Mainland China	China
+3166	Zhejiang	Mainland China	China
+3167	 	Malaysia	Malaysia
+3168	 	Maldives	Maldives
+3169	 	Malta	Malta
+3170	 	Martinique	Martinique
+3171	 	Mauritania	Mauritania
+3172	 	Mayotte	Mayotte
+3173	 	Mexico	Mexico
+3174	 	Moldova	Moldova
+3175	 	Monaco	Monaco
+3176	 	Mongolia	Mongolia
+3177	 	Morocco	Morocco
+3178	 	Namibia	Namibia
+3179	 	Nepal	Nepal
+3180	 	Netherlands	Netherlands
+3181	Curacao	Netherlands	Netherlands
+3182	Netherlands	Netherlands	Netherlands
+3183	 	New Zealand	New Zealand
+3184	 	Nigeria	Nigeria
+3185	 	North Ireland	North Ireland
+3186	 	North Macedonia	North Macedonia
+3187	 	Norway	Norway
+3188	 	occupied Palestinian territory	occupied Palestinian territory
+3189	 	Oman	Oman
+3190	Cruise Ship	Others	Others
+3191	Diamond Princess cruise ship	Others	Others
+3192	 	Pakistan	Pakistan
+3193	 	Palestine	Palestine
+3194	 	Panama	Panama
+3195	 	Paraguay	Paraguay
+3196	 	Peru	Peru
+3197	 	Philippines	Philippines
+3198	 	Poland	Poland
+3199	 	Portugal	Portugal
+3200	 	Puerto Rico	Puerto Rico
+3201	 	Qatar	Qatar
+3202	 	Republic of Ireland	Ireland
+3203	 	Republic of Korea	Republic of Korea
+3204	 	Republic of Moldova	Republic of Moldova
+3205	 	Republic of the Congo	Congo
+3206	 	Reunion	Reunion
+3207	 	Romania	Romania
+3208	 	Russia	Russia
+3209	 	Russian Federation	Russia
+3210	 	Rwanda	Rwanda
+3211	 	Saint Barthelemy	Saint Barthelemy
+3212	 	Saint Lucia	Saint Lucia
+3213	 	Saint Martin	Saint Martin
+3214	 	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines
+3215	 	San Marino	San Marino
+3216	 	Saudi Arabia	Saudi Arabia
+3217	 	Senegal	Senegal
+3218	 	Serbia	Serbia
+3219	 	Seychelles	Seychelles
+3220	 	Singapore	Singapore
+3221	 	Slovakia	Slovakia
+3222	 	Slovenia	Slovenia
+3223	 	Somalia	Somalia
+3224	 	South Africa	South Africa
+3225	 	South Korea	South Korea
+3226	 	Spain	Spain
+3227	 	Sri Lanka	Sri Lanka
+3228	 	St. Martin	St. Martin
+3229	 	Sudan	Sudan
+3230	 	Suriname	Suriname
+3231	 	Sweden	Sweden
+3232	 	Switzerland	Switzerland
+3233	Taiwan	Taipei and environs	Taipei and environs
+3234	Taiwan	Taiwan	Taiwan
+3235	 	Taiwan*	Taiwan
+3236	 	Tanzania	Tanzania
+3237	 	Thailand	Thailand
+3238	 	The Bahamas	The Bahamas
+3239	 	Togo	Togo
+3240	 	Trinidad and Tobago	Trinidad and Tobago
+3241	 	Tunisia	Tunisia
+3242	 	Turkey	Turkey
+3243	 	UK	United Kingdom
+3244	 	Ukraine	Ukraine
+3245	 	United Arab Emirates	United Arab Emirates
+3246	Cayman Islands	United Kingdom	United Kingdom
+3247	Channel Islands	United Kingdom	United Kingdom
+3248	Gibraltar	United Kingdom	United Kingdom
+3249	UK	United Kingdom	United Kingdom
+3250	United Kingdom	United Kingdom	United Kingdom
+3251	 	Uruguay	Uruguay
+3252	 Norfolk County, MA	US	US
+3253	Alabama	US	US
+3254	Alameda County, CA	US	US
+3255	Alaska	US	US
+3256	Arizona	US	US
+3257	Arkansas	US	US
+3258	Ashland, NE	US	US
+3259	Bennington County, VT	US	US
+3260	Bergen County, NJ	US	US
+3261	Berkeley, CA	US	US
+3262	Berkshire County, MA	US	US
+3263	Boston, MA	US	US
+3264	Broward County, FL	US	US
+3265	California	US	US
+3266	Carver County, MN	US	US
+3267	Charleston County, SC	US	US
+3268	Charlotte County, FL	US	US
+3269	Chatham County, NC	US	US
+3270	Cherokee County, GA	US	US
+3271	Chicago	US	US
+3272	Chicago, IL	US	US
+3273	Clark County, NV	US	US
+3274	Clark County, WA	US	US
+3275	Cobb County, GA	US	US
+3276	Collin County, TX	US	US
+3277	Colorado	US	US
+3278	Connecticut	US	US
+3279	Contra Costa County, CA	US	US
+3280	Cook County, IL	US	US
+3281	Davidson County, TN	US	US
+3282	Davis County, UT	US	US
+3283	Delaware	US	US
+3284	Delaware County, PA	US	US
+3285	Denver County, CO	US	US
+3286	Diamond Princess	US	US
+3287	District of Columbia	US	US
+3288	Douglas County, CO	US	US
+3289	Douglas County, NE	US	US
+3290	Douglas County, OR	US	US
+3291	El Paso County, CO	US	US
+3292	Fairfax County, VA	US	US
+3293	Fairfield County, CT	US	US
+3294	Fayette County, KY	US	US
+3295	Florida	US	US
+3296	Floyd County, GA	US	US
+3297	Fort Bend County, TX	US	US
+3298	Fresno County, CA	US	US
+3299	Fulton County, GA	US	US
+3300	Georgia	US	US
+3301	Grafton County, NH	US	US
+3302	Grand Princess	US	US
+3303	Grand Princess Cruise Ship	US	US
+3304	Grant County, WA	US	US
+3305	Guam	US	US
+3306	Harford County, MD	US	US
+3307	Harris County, TX	US	US
+3308	Harrison County, KY	US	US
+3309	Hawaii	US	US
+3310	Hendricks County, IN	US	US
+3311	Hillsborough, FL	US	US
+3312	Honolulu County, HI	US	US
+3313	Hudson County, NJ	US	US
+3314	Humboldt County, CA	US	US
+3315	Idaho	US	US
+3316	Illinois	US	US
+3317	Indiana	US	US
+3318	Iowa	US	US
+3319	Jackson County, OR 	US	US
+3320	Jefferson County, KY	US	US
+3321	Jefferson County, WA	US	US
+3322	Jefferson Parish, LA	US	US
+3323	Johnson County, IA	US	US
+3324	Johnson County, KS	US	US
+3325	Kansas	US	US
+3326	Kentucky	US	US
+3327	Kershaw County, SC	US	US
+3328	King County, WA	US	US
+3329	Kittitas County, WA	US	US
+3330	Klamath County, OR	US	US
+3331	Lackland, TX	US	US
+3332	Lackland, TX (From Diamond Princess)	US	US
+3333	Lee County, FL	US	US
+3334	Los Angeles, CA	US	US
+3335	Louisiana	US	US
+3336	Madera County, CA	US	US
+3337	Madison, WI	US	US
+3338	Maine	US	US
+3339	Manatee County, FL	US	US
+3340	Maricopa County, AZ	US	US
+3341	Marion County, IN	US	US
+3342	Marion County, OR	US	US
+3343	Maryland	US	US
+3344	Massachusetts	US	US
+3345	Michigan	US	US
+3346	Middlesex County, MA	US	US
+3347	Minnesota	US	US
+3348	Mississippi	US	US
+3349	Missouri	US	US
+3350	Montana	US	US
+3351	Montgomery County, MD	US	US
+3352	Montgomery County, PA	US	US
+3353	Montgomery County, TX	US	US
+3354	Nassau County, NY	US	US
+3355	Nebraska	US	US
+3356	Nevada	US	US
+3357	New Hampshire	US	US
+3358	New Jersey	US	US
+3359	New Mexico	US	US
+3360	New York	US	US
+3361	New York City, NY	US	US
+3362	New York County, NY	US	US
+3363	Norfolk County, MA	US	US
+3364	North Carolina	US	US
+3365	North Dakota	US	US
+3366	Norwell County, MA	US	US
+3367	Ohio	US	US
+3368	Okaloosa County, FL	US	US
+3369	Oklahoma	US	US
+3370	Omaha, NE (From Diamond Princess)	US	US
+3371	Orange County, CA	US	US
+3372	Orange, CA	US	US
+3373	Oregon	US	US
+3374	Pennsylvania	US	US
+3375	Pierce County, WA	US	US
+3376	Pinal County, AZ	US	US
+3377	Placer County, CA	US	US
+3378	Plymouth County, MA	US	US
+3379	Polk County, GA	US	US
+3380	Portland, OR	US	US
+3381	Providence County, RI	US	US
+3382	Providence, RI	US	US
+3383	Puerto Rico	US	US
+3384	Queens County, NY	US	US
+3385	Ramsey County, MN	US	US
+3386	Rhode Island	US	US
+3387	Riverside County, CA	US	US
+3388	Rockingham County, NH	US	US
+3389	Rockland County, NY	US	US
+3390	Sacramento County, CA	US	US
+3391	San Antonio, TX	US	US
+3392	San Benito, CA	US	US
+3393	San Diego County, CA	US	US
+3394	San Francisco County, CA	US	US
+3395	San Mateo, CA	US	US
+3396	Santa Clara County, CA	US	US
+3397	Santa Clara, CA	US	US
+3398	Santa Cruz County, CA	US	US
+3399	Santa Rosa County, FL	US	US
+3400	Sarasota, FL	US	US
+3401	Saratoga County, NY	US	US
+3402	Seattle, WA	US	US
+3403	Shasta County, CA	US	US
+3404	Shelby County, TN	US	US
+3405	Snohomish County, WA	US	US
+3406	Sonoma County, CA	US	US
+3407	South Carolina	US	US
+3408	South Dakota	US	US
+3409	Spartanburg County, SC	US	US
+3410	Spokane County, WA	US	US
+3411	St. Louis County, MO	US	US
+3412	Suffolk County, MA	US	US
+3413	Suffolk County, NY	US	US
+3414	Summit County, CO	US	US
+3415	Tempe, AZ	US	US
+3416	Tennessee	US	US
+3417	Texas	US	US
+3418	Travis, CA	US	US
+3419	Travis, CA (From Diamond Princess)	US	US
+3420	Tulsa County, OK	US	US
+3421	Ulster County, NY	US	US
+3422	Umatilla, OR	US	US
+3423	Unassigned Location (From Diamond Princess)	US	US
+3424	Unassigned Location, VT	US	US
+3425	Unassigned Location, WA	US	US
+3426	Unknown Location, MA	US	US
+3427	Utah	US	US
+3428	Vermont	US	US
+3429	Virgin Islands	US	US
+3430	Virgin Islands, U.S.	US	US
+3431	Virginia	US	US
+3432	Volusia County, FL	US	US
+3433	Wake County, NC	US	US
+3434	Washington	US	US
+3435	Washington County, OR	US	US
+3436	Washington, D.C.	US	US
+3437	Washoe County, NV	US	US
+3438	Wayne County, PA	US	US
+3439	West Virginia	US	US
+3440	Westchester County, NY	US	US
+3441	Williamson County, TN	US	US
+3442	Wisconsin	US	US
+3443	Wyoming	US	US
+3444	Yolo County, CA	US	US
+3445	 	Uzbekistan	Uzbekistan
+3446	 	Vatican City	Vatican City
+3447	 	Venezuela	Venezuela
+3448	 	Viet Nam	Viet Nam
+3449	 	Vietnam	Vietnam
