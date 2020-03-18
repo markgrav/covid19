@@ -658,3 +658,15 @@
   <WeekName>Monday</WeekName>
   <WeekNumberName>2020-Monday</WeekNumberName>
 </row>
+<row>
+  <DimDateKey>20200317</DimDateKey>
+  <DimDate>2020-03-17</DimDate>
+  <YearNumber>2020</YearNumber>
+  <YearMonthNumber>202003</YearMonthNumber>
+  <MonthNumber>3</MonthNumber>
+  <MonthName>March</MonthName>
+  <MonthYearName>March 2020</MonthYearName>
+  <WeekNumber>3</WeekNumber>
+  <WeekName>Tuesday</WeekName>
+  <WeekNumberName>2020-Tuesday</WeekNumberName>
+</row>
