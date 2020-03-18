@@ -2934,3 +2934,38 @@
   <RegionCountry>Vietnam</RegionCountry>
   <RegionCountryConsolidated>Vietnam</RegionCountryConsolidated>
 </row>
+<row>
+  <DimGeoLocationKey>3940</DimGeoLocationKey>
+  <ProvinceState> </ProvinceState>
+  <RegionCountry>Canada</RegionCountry>
+</row>
+<row>
+  <DimGeoLocationKey>3941</DimGeoLocationKey>
+  <ProvinceState> </ProvinceState>
+  <RegionCountry>China</RegionCountry>
+</row>
+<row>
+  <DimGeoLocationKey>3942</DimGeoLocationKey>
+  <ProvinceState> </ProvinceState>
+  <RegionCountry>Hong Kong SAR, China</RegionCountry>
+</row>
+<row>
+  <DimGeoLocationKey>3943</DimGeoLocationKey>
+  <ProvinceState> </ProvinceState>
+  <RegionCountry>Macao SAR, China</RegionCountry>
+</row>
+<row>
+  <DimGeoLocationKey>3944</DimGeoLocationKey>
+  <ProvinceState> </ProvinceState>
+  <RegionCountry>Taiwan, China</RegionCountry>
+</row>
+<row>
+  <DimGeoLocationKey>3945</DimGeoLocationKey>
+  <ProvinceState> </ProvinceState>
+  <RegionCountry>United Kingdom</RegionCountry>
+</row>
+<row>
+  <DimGeoLocationKey>3946</DimGeoLocationKey>
+  <ProvinceState> </ProvinceState>
+  <RegionCountry>United States</RegionCountry>
+</row>

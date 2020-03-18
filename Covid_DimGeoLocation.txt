@@ -488,3 +488,10 @@
 3937	 	Venezuela	Venezuela
 3938	 	Viet Nam	Viet Nam
 3939	 	Vietnam	Vietnam
+3940	 	Canada	NULL
+3941	 	China	NULL
+3942	 	Hong Kong SAR, China	NULL
+3943	 	Macao SAR, China	NULL
+3944	 	Taiwan, China	NULL
+3945	 	United Kingdom	NULL
+3946	 	United States	NULL
