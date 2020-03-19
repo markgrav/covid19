@@ -1,497 +1,568 @@
-﻿3450	 	 Azerbaijan	NULL
-3451	 	Afghanistan	Afghanistan
-3452	 	Albania	Albania
-3453	 	Algeria	Algeria
-3454	 	Andorra	Andorra
-3455	 	Antigua and Barbuda	Antigua and Barbuda
-3456	 	Argentina	Argentina
-3457	 	Armenia	Armenia
-3458	 	Aruba	Aruba
-3459	 	Australia	Australia
-3460	Australian Capital Territory	Australia	Australia
-3461	From Diamond Princess	Australia	Australia
-3462	New South Wales	Australia	Australia
-3463	Northern Territory	Australia	Australia
-3464	Queensland	Australia	Australia
-3465	South Australia	Australia	Australia
-3466	Tasmania	Australia	Australia
-3467	Victoria	Australia	Australia
-3468	Western Australia	Australia	Australia
-3469	 	Austria	Austria
-3470	None	Austria	Austria
-3471	 	Azerbaijan	Azerbaijan
-3472	 	Bahrain	Bahrain
-3473	 	Bangladesh	Bangladesh
-3474	 	Barbados	NULL
-3475	 	Belarus	Belarus
-3476	 	Belgium	Belgium
-3477	 	Benin	Benin
-3478	 	Bhutan	Bhutan
-3479	 	Bolivia	Bolivia
-3480	 	Bosnia and Herzegovina	Bosnia and Herzegovina
-3481	 	Brazil	Brazil
-3482	 	Brunei	Brunei
-3483	 	Bulgaria	Bulgaria
-3484	 	Burkina Faso	Burkina Faso
-3485	 	Cambodia	Cambodia
-3486	 	Cameroon	Cameroon
-3487	 Montreal, QC	Canada	Canada
-3488	Alberta	Canada	Canada
-3489	British Columbia	Canada	Canada
-3490	Calgary, Alberta	Canada	Canada
-3491	Edmonton, Alberta	Canada	Canada
-3492	Grand Princess	Canada	Canada
-3493	London, ON	Canada	Canada
-3494	Manitoba	Canada	Canada
-3495	New Brunswick	Canada	Canada
-3496	Newfoundland and Labrador	Canada	Canada
-3497	Nova Scotia	Canada	Canada
-3498	Ontario	Canada	Canada
-3499	Prince Edward Island	Canada	Canada
-3500	Quebec	Canada	Canada
-3501	Saskatchewan	Canada	Canada
-3502	Toronto, ON	Canada	Canada
-3503	 	Cayman Islands	Cayman Islands
-3504	 	Central African Republic	Central African Republic
-3505	 	Channel Islands	Channel Islands
-3506	 	Chile	Chile
-3507	Anhui	China	China
-3508	Beijing	China	China
-3509	Chongqing	China	China
-3510	Fujian	China	China
-3511	Gansu	China	China
-3512	Guangdong	China	China
-3513	Guangxi	China	China
-3514	Guizhou	China	China
-3515	Hainan	China	China
-3516	Hebei	China	China
-3517	Heilongjiang	China	China
-3518	Henan	China	China
-3519	Hong Kong	China	China
-3520	Hubei	China	China
-3521	Hunan	China	China
-3522	Inner Mongolia	China	China
-3523	Jiangsu	China	China
-3524	Jiangxi	China	China
-3525	Jilin	China	China
-3526	Liaoning	China	China
-3527	Macau	China	China
-3528	Ningxia	China	China
-3529	Qinghai	China	China
-3530	Shaanxi	China	China
-3531	Shandong	China	China
-3532	Shanghai	China	China
-3533	Shanxi	China	China
-3534	Sichuan	China	China
-3535	Tianjin	China	China
-3536	Tibet	China	China
-3537	Xinjiang	China	China
-3538	Yunnan	China	China
-3539	Zhejiang	China	China
-3540	 	Colombia	Colombia
-3541	 	Congo (Brazzaville)	Congo
-3542	 	Congo (Kinshasa)	Congo
-3543	 	Costa Rica	Costa Rica
-3544	 	Cote d'Ivoire	Cote d'Ivoire
-3545	 	Croatia	Croatia
-3546	Diamond Princess	Cruise Ship	Cruise Ship
-3547	 	Cuba	Cuba
-3548	 	Curacao	Curacao
-3549	 	Cyprus	Cyprus
-3550	 	Czech Republic	Czech Republic
-3551	 	Czechia	Czechia
-3552	 	Denmark	Denmark
-3553	Denmark	Denmark	Denmark
-3554	Faroe Islands	Denmark	Denmark
-3555	 	Dominican Republic	Dominican Republic
-3556	 	Ecuador	Ecuador
-3557	 	Egypt	Egypt
-3558	 	Equatorial Guinea	Equatorial Guinea
-3559	 	Estonia	Estonia
-3560	 	Eswatini	Eswatini
-3561	 	Ethiopia	Ethiopia
-3562	 	Faroe Islands	Faroe Islands
-3563	 	Finland	Finland
-3564	 	France	France
-3565	Fench Guiana	France	France
-3566	France	France	France
-3567	French Guiana	France	France
-3568	French Polynesia	France	France
-3569	Guadeloupe	France	France
-3570	Mayotte	France	France
-3571	Reunion	France	France
-3572	Saint Barthelemy	France	France
-3573	St Martin	France	France
-3574	 	French Guiana	French Guiana
-3575	 	Gabon	Gabon
-3576	 	Georgia	Georgia
-3577	 	Germany	Germany
-3578	Bavaria	Germany	Germany
-3579	 	Ghana	Ghana
-3580	 	Gibraltar	Gibraltar
-3581	 	Greece	Greece
-3582	 	Greenland	Greenland
-3583	 	Guadeloupe	Guadeloupe
-3584	 	Guam	Guam
-3585	 	Guatemala	Guatemala
-3586	 	Guernsey	Guernsey
-3587	 	Guinea	Guinea
-3588	 	Guyana	Guyana
-3589	 	Holy See	Holy See
-3590	 	Honduras	Honduras
-3591	Hong Kong	Hong Kong	Hong Kong
-3592	Hong Kong	Hong Kong SAR	Hong Kong
-3593	 	Hungary	Hungary
-3594	 	Iceland	Iceland
-3595	 	India	India
-3596	 	Indonesia	Indonesia
-3597	 	Iran	Iran
-3598	 	Iran (Islamic Republic of)	Iran
-3599	 	Iraq	Iraq
-3600	None	Iraq	Iraq
-3601	 	Ireland	Ireland
-3602	 	Israel	Israel
-3603	From Diamond Princess	Israel	Israel
-3604	 	Italy	Italy
-3605	 	Ivory Coast	Ivory Coast
-3606	 	Jamaica	Jamaica
-3607	 	Japan	Japan
-3608	 	Jersey	Jersey
-3609	 	Jordan	Jordan
-3610	 	Kazakhstan	Kazakhstan
-3611	 	Kenya	Kenya
-3612	 	Korea, South	South Korea
-3613	 	Kosovo	Kosovo
-3614	 	Kuwait	Kuwait
-3615	 	Latvia	Latvia
-3616	 	Lebanon	Lebanon
-3617	None	Lebanon	Lebanon
-3618	 	Liberia	Liberia
-3619	 	Liechtenstein	Liechtenstein
-3620	 	Lithuania	Lithuania
-3621	 	Luxembourg	Luxembourg
-3622	Macau	Macao SAR	Macao SAR
-3623	Macau	Macau	Macau
-3624	Anhui	Mainland China	China
-3625	Beijing	Mainland China	China
-3626	Chongqing	Mainland China	China
-3627	Fujian	Mainland China	China
-3628	Gansu	Mainland China	China
-3629	Guangdong	Mainland China	China
-3630	Guangxi	Mainland China	China
-3631	Guizhou	Mainland China	China
-3632	Hainan	Mainland China	China
-3633	Hebei	Mainland China	China
-3634	Heilongjiang	Mainland China	China
-3635	Henan	Mainland China	China
-3636	Hubei	Mainland China	China
-3637	Hunan	Mainland China	China
-3638	Inner Mongolia	Mainland China	China
-3639	Jiangsu	Mainland China	China
-3640	Jiangxi	Mainland China	China
-3641	Jilin	Mainland China	China
-3642	Liaoning	Mainland China	China
-3643	Ningxia	Mainland China	China
-3644	Qinghai	Mainland China	China
-3645	Shaanxi	Mainland China	China
-3646	Shandong	Mainland China	China
-3647	Shanghai	Mainland China	China
-3648	Shanxi	Mainland China	China
-3649	Sichuan	Mainland China	China
-3650	Tianjin	Mainland China	China
-3651	Tibet	Mainland China	China
-3652	Xinjiang	Mainland China	China
-3653	Yunnan	Mainland China	China
-3654	Zhejiang	Mainland China	China
-3655	 	Malaysia	Malaysia
-3656	 	Maldives	Maldives
-3657	 	Malta	Malta
-3658	 	Martinique	Martinique
-3659	 	Mauritania	Mauritania
-3660	 	Mayotte	Mayotte
-3661	 	Mexico	Mexico
-3662	 	Moldova	Moldova
-3663	 	Monaco	Monaco
-3664	 	Mongolia	Mongolia
-3665	 	Montenegro	NULL
-3666	 	Morocco	Morocco
-3667	 	Namibia	Namibia
-3668	 	Nepal	Nepal
-3669	 	Netherlands	Netherlands
-3670	Curacao	Netherlands	Netherlands
-3671	Netherlands	Netherlands	Netherlands
-3672	 	New Zealand	New Zealand
-3673	 	Nigeria	Nigeria
-3674	 	North Ireland	North Ireland
-3675	 	North Macedonia	North Macedonia
-3676	 	Norway	Norway
-3677	 	occupied Palestinian territory	occupied Palestinian territory
-3678	 	Oman	Oman
-3679	Cruise Ship	Others	Others
-3680	Diamond Princess cruise ship	Others	Others
-3681	 	Pakistan	Pakistan
-3682	 	Palestine	Palestine
-3683	 	Panama	Panama
-3684	 	Paraguay	Paraguay
-3685	 	Peru	Peru
-3686	 	Philippines	Philippines
-3687	 	Poland	Poland
-3688	 	Portugal	Portugal
-3689	 	Puerto Rico	Puerto Rico
-3690	 	Qatar	Qatar
-3691	 	Republic of Ireland	Ireland
-3692	 	Republic of Korea	Republic of Korea
-3693	 	Republic of Moldova	Republic of Moldova
-3694	 	Republic of the Congo	Congo
-3695	 	Reunion	Reunion
-3696	 	Romania	Romania
-3697	 	Russia	Russia
-3698	 	Russian Federation	Russia
-3699	 	Rwanda	Rwanda
-3700	 	Saint Barthelemy	Saint Barthelemy
-3701	 	Saint Lucia	Saint Lucia
-3702	 	Saint Martin	Saint Martin
-3703	 	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines
-3704	 	San Marino	San Marino
-3705	 	Saudi Arabia	Saudi Arabia
-3706	 	Senegal	Senegal
-3707	 	Serbia	Serbia
-3708	 	Seychelles	Seychelles
-3709	 	Singapore	Singapore
-3710	 	Slovakia	Slovakia
-3711	 	Slovenia	Slovenia
-3712	 	Somalia	Somalia
-3713	 	South Africa	South Africa
-3714	 	South Korea	South Korea
-3715	 	Spain	Spain
-3716	 	Sri Lanka	Sri Lanka
-3717	 	St. Martin	St. Martin
-3718	 	Sudan	Sudan
-3719	 	Suriname	Suriname
-3720	 	Sweden	Sweden
-3721	 	Switzerland	Switzerland
-3722	Taiwan	Taipei and environs	Taipei and environs
-3723	Taiwan	Taiwan	Taiwan
-3724	 	Taiwan*	Taiwan
-3725	 	Tanzania	Tanzania
-3726	 	Thailand	Thailand
-3727	 	The Bahamas	The Bahamas
-3728	 	The Gambia	NULL
-3729	 	Togo	Togo
-3730	 	Trinidad and Tobago	Trinidad and Tobago
-3731	 	Tunisia	Tunisia
-3732	 	Turkey	Turkey
-3733	 	UK	United Kingdom
-3734	 	Ukraine	Ukraine
-3735	 	United Arab Emirates	United Arab Emirates
-3736	Cayman Islands	United Kingdom	United Kingdom
-3737	Channel Islands	United Kingdom	United Kingdom
-3738	Gibraltar	United Kingdom	United Kingdom
-3739	UK	United Kingdom	United Kingdom
-3740	United Kingdom	United Kingdom	United Kingdom
-3741	 	Uruguay	Uruguay
-3742	 Norfolk County, MA	US	US
-3743	Alabama	US	US
-3744	Alameda County, CA	US	US
-3745	Alaska	US	US
-3746	Arizona	US	US
-3747	Arkansas	US	US
-3748	Ashland, NE	US	US
-3749	Bennington County, VT	US	US
-3750	Bergen County, NJ	US	US
-3751	Berkeley, CA	US	US
-3752	Berkshire County, MA	US	US
-3753	Boston, MA	US	US
-3754	Broward County, FL	US	US
-3755	California	US	US
-3756	Carver County, MN	US	US
-3757	Charleston County, SC	US	US
-3758	Charlotte County, FL	US	US
-3759	Chatham County, NC	US	US
-3760	Cherokee County, GA	US	US
-3761	Chicago	US	US
-3762	Chicago, IL	US	US
-3763	Clark County, NV	US	US
-3764	Clark County, WA	US	US
-3765	Cobb County, GA	US	US
-3766	Collin County, TX	US	US
-3767	Colorado	US	US
-3768	Connecticut	US	US
-3769	Contra Costa County, CA	US	US
-3770	Cook County, IL	US	US
-3771	Davidson County, TN	US	US
-3772	Davis County, UT	US	US
-3773	Delaware	US	US
-3774	Delaware County, PA	US	US
-3775	Denver County, CO	US	US
-3776	Diamond Princess	US	US
-3777	District of Columbia	US	US
-3778	Douglas County, CO	US	US
-3779	Douglas County, NE	US	US
-3780	Douglas County, OR	US	US
-3781	El Paso County, CO	US	US
-3782	Fairfax County, VA	US	US
-3783	Fairfield County, CT	US	US
-3784	Fayette County, KY	US	US
-3785	Florida	US	US
-3786	Floyd County, GA	US	US
-3787	Fort Bend County, TX	US	US
-3788	Fresno County, CA	US	US
-3789	Fulton County, GA	US	US
-3790	Georgia	US	US
-3791	Grafton County, NH	US	US
-3792	Grand Princess	US	US
-3793	Grand Princess Cruise Ship	US	US
-3794	Grant County, WA	US	US
-3795	Guam	US	US
-3796	Harford County, MD	US	US
-3797	Harris County, TX	US	US
-3798	Harrison County, KY	US	US
-3799	Hawaii	US	US
-3800	Hendricks County, IN	US	US
-3801	Hillsborough, FL	US	US
-3802	Honolulu County, HI	US	US
-3803	Hudson County, NJ	US	US
-3804	Humboldt County, CA	US	US
-3805	Idaho	US	US
-3806	Illinois	US	US
-3807	Indiana	US	US
-3808	Iowa	US	US
-3809	Jackson County, OR 	US	US
-3810	Jefferson County, KY	US	US
-3811	Jefferson County, WA	US	US
-3812	Jefferson Parish, LA	US	US
-3813	Johnson County, IA	US	US
-3814	Johnson County, KS	US	US
-3815	Kansas	US	US
-3816	Kentucky	US	US
-3817	Kershaw County, SC	US	US
-3818	King County, WA	US	US
-3819	Kittitas County, WA	US	US
-3820	Klamath County, OR	US	US
-3821	Lackland, TX	US	US
-3822	Lackland, TX (From Diamond Princess)	US	US
-3823	Lee County, FL	US	US
-3824	Los Angeles, CA	US	US
-3825	Louisiana	US	US
-3826	Madera County, CA	US	US
-3827	Madison, WI	US	US
-3828	Maine	US	US
-3829	Manatee County, FL	US	US
-3830	Maricopa County, AZ	US	US
-3831	Marion County, IN	US	US
-3832	Marion County, OR	US	US
-3833	Maryland	US	US
-3834	Massachusetts	US	US
-3835	Michigan	US	US
-3836	Middlesex County, MA	US	US
-3837	Minnesota	US	US
-3838	Mississippi	US	US
-3839	Missouri	US	US
-3840	Montana	US	US
-3841	Montgomery County, MD	US	US
-3842	Montgomery County, PA	US	US
-3843	Montgomery County, TX	US	US
-3844	Nassau County, NY	US	US
-3845	Nebraska	US	US
-3846	Nevada	US	US
-3847	New Hampshire	US	US
-3848	New Jersey	US	US
-3849	New Mexico	US	US
-3850	New York	US	US
-3851	New York City, NY	US	US
-3852	New York County, NY	US	US
-3853	Norfolk County, MA	US	US
-3854	North Carolina	US	US
-3855	North Dakota	US	US
-3856	Norwell County, MA	US	US
-3857	Ohio	US	US
-3858	Okaloosa County, FL	US	US
-3859	Oklahoma	US	US
-3860	Omaha, NE (From Diamond Princess)	US	US
-3861	Orange County, CA	US	US
-3862	Orange, CA	US	US
-3863	Oregon	US	US
-3864	Pennsylvania	US	US
-3865	Pierce County, WA	US	US
-3866	Pinal County, AZ	US	US
-3867	Placer County, CA	US	US
-3868	Plymouth County, MA	US	US
-3869	Polk County, GA	US	US
-3870	Portland, OR	US	US
-3871	Providence County, RI	US	US
-3872	Providence, RI	US	US
-3873	Puerto Rico	US	US
-3874	Queens County, NY	US	US
-3875	Ramsey County, MN	US	US
-3876	Rhode Island	US	US
-3877	Riverside County, CA	US	US
-3878	Rockingham County, NH	US	US
-3879	Rockland County, NY	US	US
-3880	Sacramento County, CA	US	US
-3881	San Antonio, TX	US	US
-3882	San Benito, CA	US	US
-3883	San Diego County, CA	US	US
-3884	San Francisco County, CA	US	US
-3885	San Mateo, CA	US	US
-3886	Santa Clara County, CA	US	US
-3887	Santa Clara, CA	US	US
-3888	Santa Cruz County, CA	US	US
-3889	Santa Rosa County, FL	US	US
-3890	Sarasota, FL	US	US
-3891	Saratoga County, NY	US	US
-3892	Seattle, WA	US	US
-3893	Shasta County, CA	US	US
-3894	Shelby County, TN	US	US
-3895	Snohomish County, WA	US	US
-3896	Sonoma County, CA	US	US
-3897	South Carolina	US	US
-3898	South Dakota	US	US
-3899	Spartanburg County, SC	US	US
-3900	Spokane County, WA	US	US
-3901	St. Louis County, MO	US	US
-3902	Suffolk County, MA	US	US
-3903	Suffolk County, NY	US	US
-3904	Summit County, CO	US	US
-3905	Tempe, AZ	US	US
-3906	Tennessee	US	US
-3907	Texas	US	US
-3908	Travis, CA	US	US
-3909	Travis, CA (From Diamond Princess)	US	US
-3910	Tulsa County, OK	US	US
-3911	Ulster County, NY	US	US
-3912	Umatilla, OR	US	US
-3913	Unassigned Location (From Diamond Princess)	US	US
-3914	Unassigned Location, VT	US	US
-3915	Unassigned Location, WA	US	US
-3916	Unknown Location, MA	US	US
-3917	Utah	US	US
-3918	Vermont	US	US
-3919	Virgin Islands	US	US
-3920	Virgin Islands, U.S.	US	US
-3921	Virginia	US	US
-3922	Volusia County, FL	US	US
-3923	Wake County, NC	US	US
-3924	Washington	US	US
-3925	Washington County, OR	US	US
-3926	Washington, D.C.	US	US
-3927	Washoe County, NV	US	US
-3928	Wayne County, PA	US	US
-3929	West Virginia	US	US
-3930	Westchester County, NY	US	US
-3931	Williamson County, TN	US	US
-3932	Wisconsin	US	US
-3933	Wyoming	US	US
-3934	Yolo County, CA	US	US
-3935	 	Uzbekistan	Uzbekistan
-3936	 	Vatican City	Vatican City
-3937	 	Venezuela	Venezuela
-3938	 	Viet Nam	Viet Nam
-3939	 	Vietnam	Vietnam
-3940	 	Canada	NULL
-3941	 	China	NULL
-3942	 	Hong Kong SAR, China	NULL
-3943	 	Macao SAR, China	NULL
-3944	 	Taiwan, China	NULL
-3945	 	United Kingdom	NULL
-3946	 	United States	NULL
+﻿3999	 	 Azerbaijan	NULL
+4000	 	Afghanistan	Afghanistan
+4001	 	Albania	Albania
+4002	 	Algeria	Algeria
+4003	 	Andorra	Andorra
+4004	 	Antigua and Barbuda	Antigua and Barbuda
+4005	 	Argentina	Argentina
+4006	 	Armenia	Armenia
+4007	 	Aruba	Aruba
+4008	 	Australia	Australia
+4009	 	Austria	Austria
+4010	 	Azerbaijan	Azerbaijan
+4011	 	Bahamas	NULL
+4012	 	Bahrain	Bahrain
+4013	 	Bangladesh	Bangladesh
+4014	 	Barbados	NULL
+4015	 	Belarus	Belarus
+4016	 	Belgium	Belgium
+4017	 	Benin	Benin
+4018	 	Bermuda, UKOT	NULL
+4019	 	Bhutan	Bhutan
+4020	 	Bolivia	Bolivia
+4021	 	Bosnia and Herzegovina	Bosnia and Herzegovina
+4022	 	Bosnia and Hezegovina	NULL
+4023	 	Brazil	Brazil
+4024	 	British Virgin Islands, UKOT	NULL
+4025	 	Brunei	Brunei
+4026	 	Brunei Darussalam	NULL
+4027	 	Bulgaria	Bulgaria
+4028	 	Burkina Faso	Burkina Faso
+4029	 	Cambodia	Cambodia
+4030	 	Cameroon	Cameroon
+4031	 	Canada	Canada
+4032	 	Cap Verde	NULL
+4033	 	Cayman Islands	Cayman Islands
+4034	 	Cayman Islands, UKOT	NULL
+4035	 	Central African Republic	Central African Republic
+4036	 	Channel Islands	Channel Islands
+4037	 	Chile	Chile
+4038	 	China	China
+4039	 	Colombia	Colombia
+4040	 	Congo (Brazzaville)	Congo
+4041	 	Congo (Kinshasa)	Congo
+4042	 	Cook Island	NULL
+4043	 	Costa Rica	Costa Rica
+4044	 	Costa Rica*	NULL
+4045	 	Cote d'Ivoire	Cote d'Ivoire
+4046	 	Croatia	Croatia
+4047	 	Cuba	Cuba
+4048	 	Curacao	Curacao
+4049	 	Cyprus	Cyprus
+4050	 	Czech Republic	Czech Republic
+4051	 	Czechia	Czechia
+4052	 	Denmark	Denmark
+4053	 	Dominica	NULL
+4054	 	Dominican Republic	Dominican Republic
+4055	 	Ecuador	Ecuador
+4056	 	Egypt	Egypt
+4057	 	El Salvador	NULL
+4058	 	Equatorial Guinea	Equatorial Guinea
+4059	 	Estonia	Estonia
+4060	 	Eswatini	Eswatini
+4061	 	Ethiopia	Ethiopia
+4062	 	Faroe Islands	Faroe Islands
+4063	 	Fiji	NULL
+4064	 	Finland	Finland
+4065	 	France	France
+4066	 	France, French Polynesia, FOC	NULL
+4067	 	France, Martinique, FOC	NULL
+4068	 	????France, New Caledonia, FOC	NULL
+4069	 	French Guiana	French Guiana
+4070	 	?????French Polynesia, FOC	NULL
+4071	 	Gabon	Gabon
+4072	 	Georgia	Georgia
+4073	 	Germany	Germany
+4074	 	Ghana	Ghana
+4075	 	Gibraltar	Gibraltar
+4076	 	Grand Total	NULL
+4077	 	Greece	Greece
+4078	 	Greenland	Greenland
+4079	 	?????Guadaloupe, FOC	NULL
+4080	 	Guadeloupe	Guadeloupe
+4081	 	Guam	Guam
+4082	 	Guatemala?	NULL
+4083	 	Guernsey	Guernsey
+4084	 	?????Guernsey, Crown Dependency	NULL
+4085	 	Guinea	Guinea
+4086	 	Guyana	Guyana
+4087	 	Holy See	Holy See
+4088	 	Honduras	Honduras
+4089	 	Hong Kong SAR, China	NULL
+4090	 	Hungary	Hungary
+4091	 	Iceland	Iceland
+4092	 	India	India
+4093	 	Indonesia	Indonesia
+4094	 	Iran	Iran
+4095	 	Iran (Islamic Republic of)	Iran
+4096	 	Iran, Islamic Republic	NULL
+4097	 	Iraq	Iraq
+4098	 	Ireland	Ireland
+4099	 	?????Isle of Man, Crown Dependency	NULL
+4100	 	Israel	Israel
+4101	 	Italy	Italy
+4102	 	Ivory Coast	Ivory Coast
+4103	 	Jamaica	Jamaica
+4104	 	Japan	Japan
+4105	 	Jersey	Jersey
+4106	 	?????Jersey, Crown Dependency	NULL
+4107	 	Jordan	Jordan
+4108	 	Kazakhstan	Kazakhstan
+4109	 	Kenya	Kenya
+4110	 	Korea, Republic of	NULL
+4111	 	Korea, South	South Korea
+4112	 	Kosovo	Kosovo
+4113	 	Kuwait	Kuwait
+4114	 	Laos	NULL
+4115	 	Latvia	Latvia
+4116	 	Lebanon	Lebanon
+4117	 	Liberia	Liberia
+4118	 	Libya	NULL
+4119	 	Liechtenstein	Liechtenstein
+4120	 	Lithuania	Lithuania
+4121	 	Luxembourg	Luxembourg
+4122	 	Macao SAR, China	NULL
+4123	 	Malaysia	Malaysia
+4124	 	Maldives	Maldives
+4125	 	Malta	Malta
+4126	 	Martinique	Martinique
+4127	 	?????Martinique, FOC	NULL
+4128	 	Mauritania	Mauritania
+4129	 	Mauritius	NULL
+4130	 	Mayotte	Mayotte
+4131	 	Mexico	Mexico
+4132	 	Moldova	Moldova
+4133	 	Monaco	Monaco
+4134	 	Mongolia	Mongolia
+4135	 	Montenegro	NULL
+4136	 	Morocco	Morocco
+4137	 	Morocco *	NULL
+4138	 	Myanmar	NULL
+4139	 	Namibia	Namibia
+4140	 	Nepal	Nepal
+4141	 	Netherlands	Netherlands
+4142	 	?????Netherlands Antilles, Cura?ao	NULL
+4143	 	?????Netherlands Antilles, Cura?ao *	NULL
+4144	 	?????Netherlands Antilles, Cura?ao **	NULL
+4145	 	?????Netherlands Antilles, Sint Maarten	NULL
+4146	 	?????Netherlands, Aruba	NULL
+4147	 	Netherlands, Curacao, OT	NULL
+4148	 	?????New Caledonia, FOC	NULL
+4149	 	New Zealand	New Zealand
+4150	 	Nicaragua	NULL
+4151	 	Nigeria	Nigeria
+4152	 	North Ireland	North Ireland
+4153	 	North Macedonia	North Macedonia
+4154	 	Norway	Norway
+4155	 	occupied Palestinian territory	occupied Palestinian territory
+4156	 	Oman	Oman
+4157	 	Pakistan	Pakistan
+4158	 	Palau	NULL
+4159	 	Palestine	Palestine
+4160	 	Panama	Panama
+4161	 	Papua New Guinea	NULL
+4162	 	Paraguay	Paraguay
+4163	 	Peru	Peru
+4164	 	Philippines	Philippines
+4165	 	Poland	Poland
+4166	 	Portugal	Portugal
+4167	 	?????Puerto Rico	NULL
+4168	 	Qatar	Qatar
+4169	 	Republic of Ireland	Ireland
+4170	 	Republic of Korea	Republic of Korea
+4171	 	Republic of Moldova	Republic of Moldova
+4172	 	Republic of the Congo	Congo
+4173	 	Reunion	Reunion
+4174	 	Romania	Romania
+4175	 	Russia	Russia
+4176	 	Russian Federation	Russia
+4177	 	Rwanda	Rwanda
+4178	 	Saint Barthelemy	Saint Barthelemy
+4179	 	Saint Lucia	Saint Lucia
+4180	 	Saint Martin	Saint Martin
+4181	 	?????Saint Martin, FOC	NULL
+4182	 	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines
+4183	 	Samoa	NULL
+4184	 	San Marino	San Marino
+4185	 	Saudi Arabia	Saudi Arabia
+4186	 	Senegal	Senegal
+4187	 	Serbia	Serbia
+4188	 	Seychelles	Seychelles
+4189	 	Singapore	Singapore
+4190	 	Slovakia	Slovakia
+4191	 	Slovenia	Slovenia
+4192	 	Somalia	Somalia
+4193	 	South Africa	South Africa
+4194	 	South Korea	South Korea
+4195	 	Spain	Spain
+4196	 	Sri Lanka	Sri Lanka
+4197	 	St. Martin	St. Martin
+4198	 	Sudan	Sudan
+4199	 	Suriname	Suriname
+4200	 	Sweden	Sweden
+4201	 	Switzerland	Switzerland
+4202	 	Syria	NULL
+4203	 	Taiwan*	Taiwan
+4204	 	Taiwan, China	NULL
+4205	 	Tanzania	Tanzania
+4206	 	Thailand	Thailand
+4207	 	The Bahamas	The Bahamas
+4208	 	The former Yugoslav Republic of Macedonia	NULL
+4209	 	The Gambia	NULL
+4210	 	Togo	Togo
+4211	 	Trinidad and Tobago	Trinidad and Tobago
+4212	 	Tunisia	Tunisia
+4213	 	Turkey	Turkey
+4214	 	Uganda	NULL
+4215	 	UK	United Kingdom
+4216	 	Ukraine	Ukraine
+4217	 	United Arab Emirates	United Arab Emirates
+4218	 	United Kingdom	United Kingdom
+4219	 	United Kingdom, Isle of Man, Crown Dependency	NULL
+4220	 	United Kingdom, Jersey, Crown Dependency	NULL
+4221	 	United States	NULL
+4222	 	United States of America	NULL
+4223	 	United States of America*	NULL
+4224	 	Uruguay	Uruguay
+4225	 	Uzbekistan	Uzbekistan
+4226	 	Vanuatu	NULL
+4227	 	Vatican City	Vatican City
+4228	 	Venezuela	Venezuela
+4229	 	Viet Nam	Viet Nam
+4230	 	Vietnam	Vietnam
+4231	 	?????Virgin Islands	NULL
+4232	 	West Bank and Gaza Strip	NULL
+4233	 	Yemen	NULL
+4234	 Montreal, QC	Canada	Canada
+4235	 Norfolk County, MA	US	US
+4236	Alabama	US	US
+4237	Alameda County, CA	US	US
+4238	Alaska	US	US
+4239	Alberta	Canada	Canada
+4240	Anhui	China	China
+4241	Anhui	Mainland China	China
+4242	Arizona	US	US
+4243	Arkansas	US	US
+4244	Ashland, NE	US	US
+4245	Australian Capital Territory	Australia	Australia
+4246	Bavaria	Germany	Germany
+4247	Beijing	China	China
+4248	Beijing	Mainland China	China
+4249	Bennington County, VT	US	US
+4250	Bergen County, NJ	US	US
+4251	Berkeley, CA	US	US
+4252	Berkshire County, MA	US	US
+4253	Boston, MA	US	US
+4254	British Columbia	Canada	Canada
+4255	Broward County, FL	US	US
+4256	Calgary, Alberta	Canada	Canada
+4257	California	US	US
+4258	Carver County, MN	US	US
+4259	Cayman Islands	United Kingdom	United Kingdom
+4260	Channel Islands	United Kingdom	United Kingdom
+4261	Charleston County, SC	US	US
+4262	Charlotte County, FL	US	US
+4263	Chatham County, NC	US	US
+4264	Cherokee County, GA	US	US
+4265	Chicago	US	US
+4266	Chicago, IL	US	US
+4267	Chongqing	China	China
+4268	Chongqing	Mainland China	China
+4269	Clark County, NV	US	US
+4270	Clark County, WA	US	US
+4271	Cobb County, GA	US	US
+4272	Collin County, TX	US	US
+4273	Colorado	US	US
+4274	Connecticut	US	US
+4275	Contra Costa County, CA	US	US
+4276	Cook County, IL	US	US
+4277	Cruise Ship	Others	Others
+4278	Curacao	Netherlands	Netherlands
+4279	Davidson County, TN	US	US
+4280	Davis County, UT	US	US
+4281	Delaware	US	US
+4282	Delaware County, PA	US	US
+4283	Denmark	Denmark	Denmark
+4284	Denver County, CO	US	US
+4285	Diamond Princess	Cruise Ship	Cruise Ship
+4286	Diamond Princess	US	US
+4287	Diamond Princess cruise ship	Others	Others
+4288	District of Columbia	US	US
+4289	Douglas County, CO	US	US
+4290	Douglas County, NE	US	US
+4291	Douglas County, OR	US	US
+4292	Edmonton, Alberta	Canada	Canada
+4293	El Paso County, CO	US	US
+4294	Fairfax County, VA	US	US
+4295	Fairfield County, CT	US	US
+4296	Faroe Islands	Denmark	Denmark
+4297	Fayette County, KY	US	US
+4298	Fench Guiana	France	France
+4299	Florida	US	US
+4300	Floyd County, GA	US	US
+4301	Fort Bend County, TX	US	US
+4302	France	France	France
+4303	French Guiana	France	France
+4304	French Polynesia	France	France
+4305	Fresno County, CA	US	US
+4306	From Diamond Princess	Australia	Australia
+4307	From Diamond Princess	Israel	Israel
+4308	Fujian	China	China
+4309	Fujian	Mainland China	China
+4310	Fulton County, GA	US	US
+4311	Gansu	China	China
+4312	Gansu	Mainland China	China
+4313	Georgia	US	US
+4314	Gibraltar	United Kingdom	United Kingdom
+4315	Grafton County, NH	US	US
+4316	Grand Princess	Canada	Canada
+4317	Grand Princess	US	US
+4318	Grand Princess Cruise Ship	US	US
+4319	Grant County, WA	US	US
+4320	Guadeloupe	France	France
+4321	Guam	US	US
+4322	Guangdong	China	China
+4323	Guangdong	Mainland China	China
+4324	Guangxi	China	China
+4325	Guangxi	Mainland China	China
+4326	Guizhou	China	China
+4327	Guizhou	Mainland China	China
+4328	Hainan	China	China
+4329	Hainan	Mainland China	China
+4330	Harford County, MD	US	US
+4331	Harris County, TX	US	US
+4332	Harrison County, KY	US	US
+4333	Hawaii	US	US
+4334	Hebei	China	China
+4335	Hebei	Mainland China	China
+4336	Heilongjiang	China	China
+4337	Heilongjiang	Mainland China	China
+4338	Henan	China	China
+4339	Henan	Mainland China	China
+4340	Hendricks County, IN	US	US
+4341	Hillsborough, FL	US	US
+4342	Hong Kong	China	China
+4343	Hong Kong	Hong Kong	Hong Kong
+4344	Hong Kong	Hong Kong SAR	Hong Kong
+4345	Honolulu County, HI	US	US
+4346	Hubei	China	China
+4347	Hubei	Mainland China	China
+4348	Hudson County, NJ	US	US
+4349	Humboldt County, CA	US	US
+4350	Hunan	China	China
+4351	Hunan	Mainland China	China
+4352	Idaho	US	US
+4353	Illinois	US	US
+4354	Indiana	US	US
+4355	Inner Mongolia	China	China
+4356	Inner Mongolia	Mainland China	China
+4357	Iowa	US	US
+4358	Jackson County, OR 	US	US
+4359	Jefferson County, KY	US	US
+4360	Jefferson County, WA	US	US
+4361	Jefferson Parish, LA	US	US
+4362	Jiangsu	China	China
+4363	Jiangsu	Mainland China	China
+4364	Jiangxi	China	China
+4365	Jiangxi	Mainland China	China
+4366	Jilin	China	China
+4367	Jilin	Mainland China	China
+4368	Johnson County, IA	US	US
+4369	Johnson County, KS	US	US
+4370	Kansas	US	US
+4371	Kentucky	US	US
+4372	Kershaw County, SC	US	US
+4373	King County, WA	US	US
+4374	Kittitas County, WA	US	US
+4375	Klamath County, OR	US	US
+4376	Lackland, TX	US	US
+4377	Lackland, TX (From Diamond Princess)	US	US
+4378	Lee County, FL	US	US
+4379	Liaoning	China	China
+4380	Liaoning	Mainland China	China
+4381	London, ON	Canada	Canada
+4382	Los Angeles, CA	US	US
+4383	Louisiana	US	US
+4384	Macau	China	China
+4385	Macau	Macao SAR	Macao SAR
+4386	Macau	Macau	Macau
+4387	Madera County, CA	US	US
+4388	Madison, WI	US	US
+4389	Maine	US	US
+4390	Manatee County, FL	US	US
+4391	Manitoba	Canada	Canada
+4392	Maricopa County, AZ	US	US
+4393	Marion County, IN	US	US
+4394	Marion County, OR	US	US
+4395	Maryland	US	US
+4396	Massachusetts	US	US
+4397	Mayotte	France	France
+4398	Michigan	US	US
+4399	Middlesex County, MA	US	US
+4400	Minnesota	US	US
+4401	Mississippi	US	US
+4402	Missouri	US	US
+4403	Montana	US	US
+4404	Montgomery County, MD	US	US
+4405	Montgomery County, PA	US	US
+4406	Montgomery County, TX	US	US
+4407	Nassau County, NY	US	US
+4408	Nebraska	US	US
+4409	Netherlands	Netherlands	Netherlands
+4410	Nevada	US	US
+4411	New Brunswick	Canada	Canada
+4412	New Hampshire	US	US
+4413	New Jersey	US	US
+4414	New Mexico	US	US
+4415	New South Wales	Australia	Australia
+4416	New York	US	US
+4417	New York City, NY	US	US
+4418	New York County, NY	US	US
+4419	Newfoundland and Labrador	Canada	Canada
+4420	Ningxia	China	China
+4421	Ningxia	Mainland China	China
+4422	None	Austria	Austria
+4423	None	Iraq	Iraq
+4424	None	Lebanon	Lebanon
+4425	Norfolk County, MA	US	US
+4426	North Carolina	US	US
+4427	North Dakota	US	US
+4428	Northern Territory	Australia	Australia
+4429	Norwell County, MA	US	US
+4430	Nova Scotia	Canada	Canada
+4431	Ohio	US	US
+4432	Okaloosa County, FL	US	US
+4433	Oklahoma	US	US
+4434	Omaha, NE (From Diamond Princess)	US	US
+4435	Ontario	Canada	Canada
+4436	Orange County, CA	US	US
+4437	Orange, CA	US	US
+4438	Oregon	US	US
+4439	Pennsylvania	US	US
+4440	Pierce County, WA	US	US
+4441	Pinal County, AZ	US	US
+4442	Placer County, CA	US	US
+4443	Plymouth County, MA	US	US
+4444	Polk County, GA	US	US
+4445	Portland, OR	US	US
+4446	Prince Edward Island	Canada	Canada
+4447	Providence County, RI	US	US
+4448	Providence, RI	US	US
+4449	Puerto Rico	US	US
+4450	Qinghai	China	China
+4451	Qinghai	Mainland China	China
+4452	Quebec	Canada	Canada
+4453	Queens County, NY	US	US
+4454	Queensland	Australia	Australia
+4455	Ramsey County, MN	US	US
+4456	Reunion	France	France
+4457	Rhode Island	US	US
+4458	Riverside County, CA	US	US
+4459	Rockingham County, NH	US	US
+4460	Rockland County, NY	US	US
+4461	Sacramento County, CA	US	US
+4462	Saint Barthelemy	France	France
+4463	San Antonio, TX	US	US
+4464	San Benito, CA	US	US
+4465	San Diego County, CA	US	US
+4466	San Francisco County, CA	US	US
+4467	San Mateo, CA	US	US
+4468	Santa Clara County, CA	US	US
+4469	Santa Clara, CA	US	US
+4470	Santa Cruz County, CA	US	US
+4471	Santa Rosa County, FL	US	US
+4472	Sarasota, FL	US	US
+4473	Saratoga County, NY	US	US
+4474	Saskatchewan	Canada	Canada
+4475	Seattle, WA	US	US
+4476	Shaanxi	China	China
+4477	Shaanxi	Mainland China	China
+4478	Shandong	China	China
+4479	Shandong	Mainland China	China
+4480	Shanghai	China	China
+4481	Shanghai	Mainland China	China
+4482	Shanxi	China	China
+4483	Shanxi	Mainland China	China
+4484	Shasta County, CA	US	US
+4485	Shelby County, TN	US	US
+4486	Sichuan	China	China
+4487	Sichuan	Mainland China	China
+4488	Snohomish County, WA	US	US
+4489	Sonoma County, CA	US	US
+4490	South Australia	Australia	Australia
+4491	South Carolina	US	US
+4492	South Dakota	US	US
+4493	Spartanburg County, SC	US	US
+4494	Spokane County, WA	US	US
+4495	St Martin	France	France
+4496	St. Louis County, MO	US	US
+4497	Suffolk County, MA	US	US
+4498	Suffolk County, NY	US	US
+4499	Summit County, CO	US	US
+4500	Taiwan	Taipei and environs	Taipei and environs
+4501	Taiwan	Taiwan	Taiwan
+4502	Tasmania	Australia	Australia
+4503	Tempe, AZ	US	US
+4504	Tennessee	US	US
+4505	Texas	US	US
+4506	Tianjin	China	China
+4507	Tianjin	Mainland China	China
+4508	Tibet	China	China
+4509	Tibet	Mainland China	China
+4510	Toronto, ON	Canada	Canada
+4511	Travis, CA	US	US
+4512	Travis, CA (From Diamond Princess)	US	US
+4513	Tulsa County, OK	US	US
+4514	UK	United Kingdom	United Kingdom
+4515	Ulster County, NY	US	US
+4516	Umatilla, OR	US	US
+4517	Unassigned Location (From Diamond Princess)	US	US
+4518	Unassigned Location, VT	US	US
+4519	Unassigned Location, WA	US	US
+4520	United Kingdom	United Kingdom	United Kingdom
+4521	Unknown Location, MA	US	US
+4522	Utah	US	US
+4523	Vermont	US	US
+4524	Victoria	Australia	Australia
+4525	Virgin Islands	US	US
+4526	Virgin Islands, U.S.	US	US
+4527	Virginia	US	US
+4528	Volusia County, FL	US	US
+4529	Wake County, NC	US	US
+4530	Washington	US	US
+4531	Washington County, OR	US	US
+4532	Washington, D.C.	US	US
+4533	Washoe County, NV	US	US
+4534	Wayne County, PA	US	US
+4535	West Virginia	US	US
+4536	Westchester County, NY	US	US
+4537	Western Australia	Australia	Australia
+4538	Williamson County, TN	US	US
+4539	Wisconsin	US	US
+4540	Wyoming	US	US
+4541	Xinjiang	China	China
+4542	Xinjiang	Mainland China	China
+4543	Yolo County, CA	US	US
+4544	Yunnan	China	China
+4545	Yunnan	Mainland China	China
+4546	Zhejiang	China	China
+4547	Zhejiang	Mainland China	China
+4548	 	????France, New Caledonia, FOC	NULL
+4549	 	?????French Polynesia, FOC	NULL
+4550	 	?????Guadaloupe, FOC	NULL
+4551	 	Guatemala?	NULL
+4552	 	?????Guernsey, Crown Dependency	NULL
+4553	 	?????Isle of Man, Crown Dependency	NULL
+4554	 	?????Jersey, Crown Dependency	NULL
+4555	 	?????Martinique, FOC	NULL
+4556	 	?????Netherlands Antilles, Cura?ao	NULL
+4557	 	?????Netherlands Antilles, Cura?ao *	NULL
+4558	 	?????Netherlands Antilles, Cura?ao **	NULL
+4559	 	?????Netherlands Antilles, Sint Maarten	NULL
+4560	 	?????Netherlands, Aruba	NULL
+4561	 	?????New Caledonia, FOC	NULL
+4562	 	?????Puerto Rico	NULL
+4563	 	?????Saint Martin, FOC	NULL
+4564	 	?????Virgin Islands	NULL
+4565	 	Guatemala	Guatemala
+4566	 	Puerto Rico	Puerto Rico
