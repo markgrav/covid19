@@ -1,17 +1,3 @@
-CREATE TABLE [Covid].[FactCovid](
-	[DimDateKey] [int] NOT NULL,
-	[DimGeoLocationKey] [int] NOT NULL,
-	[Confirmed] [int] NOT NULL,
-	[Deaths] [int] NOT NULL,
-	[Recovered] [int] NOT NULL,
- CONSTRAINT [PK_Covid_FactCovid] PRIMARY KEY CLUSTERED 
-(
-	[DimDateKey] ASC,
-	[DimGeoLocationKey] ASC
-)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
-) ON [PRIMARY]
-GO
-
 CREATE TABLE [Covid].[DimDate](
 	[DimDateKey] [int] NOT NULL,
 	[DimDate] [date] NULL,
@@ -67,18 +53,3 @@ REFERENCES [Covid].[DimGeoLocation] ([DimGeoLocationKey])
 GO
 ALTER TABLE [Covid].[FactDisease] CHECK CONSTRAINT [FK_Covid_FactDisease_DimGeoLocationKey]
 GO
-ALTER TABLE [Covid].[FactCovid]  WITH CHECK ADD  CONSTRAINT [FK_Covid_FactCovid_DimDateKey] FOREIGN KEY([DimDateKey])
-REFERENCES [Covid].[DimDate] ([DimDateKey])
-GO
-
-ALTER TABLE [Covid].[FactCovid] CHECK CONSTRAINT [FK_Covid_FactCovid_DimDateKey]
-GO
-
-ALTER TABLE [Covid].[FactCovid]  WITH CHECK ADD  CONSTRAINT [FK_Covid_FactCovid_DimGeoLocationKey] FOREIGN KEY([DimGeoLocationKey])
-REFERENCES [Covid].[DimGeoLocation] ([DimGeoLocationKey])
-GO
-
-ALTER TABLE [Covid].[FactCovid] CHECK CONSTRAINT [FK_Covid_FactCovid_DimGeoLocationKey]
-GO
-
-
